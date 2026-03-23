@@ -28,11 +28,9 @@ Working with APIs is painful:
 
 ## 📦 Install
 
-```bash
 pip install jsonlens
 
-## Usage
-#Python
+## Usage - Python
 from jsonlens import build_structure
 import json
 

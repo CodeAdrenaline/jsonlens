@@ -1,0 +1,17 @@
+[project]
+name = "jsonlens"
+version = "0.1.0"
+description = "Inspect and extract JSON structure safely with optional fields and type merging"
+authors = [
+  { name="Vishnu A J", email="whispersofwisdom34@gmail.com" }
+]
+readme = "README.md"
+requires-python = ">=3.8"
+dependencies = []
+
+[build-system]
+requires = ["setuptools", "wheel"]
+build-backend = "setuptools.build_meta"
+
+[project.urls]
+"Homepage" = "https://github.com/ajvishnu/jsonlens"

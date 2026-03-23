@@ -14,4 +14,4 @@ requires = ["setuptools", "wheel"]
 build-backend = "setuptools.build_meta"
 
 [project.urls]
-"Homepage" = "https://github.com/ajvishnu/jsonlens"
+"Homepage" = "https://github.com/CodeAdrenaline/jsonlens.git"

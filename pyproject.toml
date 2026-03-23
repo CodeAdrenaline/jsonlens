@@ -1,6 +1,6 @@
 [project]
 name = "jsonlens"
-version = "0.1.0"
+version = "0.1.1"
 description = "Inspect and extract JSON structure safely with optional fields and type merging"
 authors = [
   { name="Vishnu A J", email="whispersofwisdom34@gmail.com" }
